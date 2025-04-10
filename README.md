@@ -1,5 +1,5 @@
 ## Hi there 👋
-🎓 I am a PhD student at the University of Michigan, where I research **Reinforcement Learning** and **communication networks**.
+🎓 I am a PhD student at the University of Michigan, where I research **Reinforcement Learning** and **Communication networks**.
 <!--
 **nickfarid/nickfarid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
